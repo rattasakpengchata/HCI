@@ -1,0 +1,9 @@
+.row {
+    background-color: antiquewhite;
+    margin-bottom: 10px;
+  }
+button{
+    margin: 8px;
+    max-width: 45%;
+    width: 40%;
+}

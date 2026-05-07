@@ -1,0 +1,14 @@
+.container {
+  max-width: 1960px;
+}
+
+.header_fire {
+  color: rgb(245, 32, 248);
+}
+.header_fire_logo {
+  width: 382px;
+  height: 300px;
+}
+.header_wood {
+  color: #198754;
+  }
